@@ -19,7 +19,7 @@ Aplikasi yang berisikan Laporan Pelecehan dan Kekerasan Seksual, Dashboard Data 
 5. Edit data user
 
 # 💿 Link Presentasi dan Demo Aplikasi
-    [Kelompok 6 - Presentasi UAS Mobile](https://www.youtube.com/watch?v=796DJ9KBjbA)
+[Kelompok 6 - Presentasi UAS Mobile](https://www.youtube.com/watch?v=796DJ9KBjbA)
 
 
 # 💫 Dokumentasi Pengembangan Sistem
