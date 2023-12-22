@@ -4,141 +4,95 @@ Repository untuk hasil Aplikasi CRIPs - Pemrograman Mobile Tahun Ajaran 2023-202
 # 📱 CRIPs Mobile - Project
 Aplikasi yang berisikan Laporan Pelecehan dan Kekerasan Seksual, Dashboard Data Hasil Kuisioner Mahasiswa, dan Dashboard Data Akademis Mahasiswa. Pengembangan Aplikasi menggunakan bahasa pemrograman dart dengan melibatkan framework Laravel sebagai backend dan Flutter sebagai framework pengembangan antarmuka pengguna (UI / User Interface).
 
-!['Gambar Home Dashboard'](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/7749e5e8b2d4eeca933454db8c60af68f4f5397c/documentation_picture/home.jpg)
+!['Gambar Home Dashboard'](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/home.jpg)
 
-# 💫 Latar Belakang
-Mr. X adalah salah satu Direktur Politeknik terbesar di Indonesia. Untuk menjaga kualitas layanan 
-Pendidikan dan aspek pendukung di kampus, Mr. X melakukan survey terkait masalah komplain oleh 
-mahasiswa yang meliputi faktor: Sumberdaya dan Dukungan Akademik (Academic Support and 
-Resources), Layanan Kantin dan Makanan (Food and Cantines), dan lainnya (Others). Sebagai 
-sample, partisipan pada survey ini adalah mahasiswa dari kelas Internasional. Mr. X ingin mengetahui 
-hasil survey tersebut melalui aplikasi mobile. Sebagai pengembangan tahap pertama, Mr. X hanya 
-perlu mengetahui hasil survey berdasarkan data mentah secara tekstual (tidak perlu hasil analisis dan 
-pengolahan data).
+# 💫 Alur Program
+1. User harus melakukan login terlebih dahulu berdasarkan NIM dan password yang telah terdata pada akun mahasiswa dalam database.
+2. Apabila belum memiliki akun, dilakukan proses register dengan menginputkan nama, nim, email, gender, dan password.
+3. Setelah melakukan login, barulah user dapat mengakses segala fitur yang ada pada sistem
 
-# 📤 Tujuan Project
-1. Membuat Dashboard sederhana yang dapat menampilkan beberapa hasil data kuisioner terkait masalah komplain oleh mahasiswa. Dengan data yang ditampilkan sebagai berikut:
+# 📤 Fitur pada Aplikasi
+1. Dashboard data visualisasi mengenai hasil kuesioner mahasiswa
+2. Dahsboard mengenai data akademis mahasiswa dan calon mahasiswa
+3. Pelaporan Tindakan Kekerasan dan Pelecehan Seksual
+4. Pelaporan Kegiatan Akademik oleh Mahasiswa
+5. Edit data user
 
-    a. Total pengisi survey (responden)
-
-    b. Jumlah faktor yang dipermasalahkan (per faktor)
-    
-    c. Jumlah responden berdasarkan gender
-    
-    d. Jumlah responden berdasar negara asal
-    
-    e. Rata-rata umur responden total
-    
-    f. Rata-rata IPK (GPA) responden total
-    
-    g. Detil hasil survey per responden
-
-2.  Membuat program dengan bahasa pemrograman Dart, menggunakan Framework Laravel dan Flutter
-
-3. Mengaplikasikan pembuatan program yang berbasis fungsi (function) atau objek (OOP)
+# 💿 Link Presentasi dan Demo Aplikasi
+    [Kelompok 6 - Presentasi UAS Mobile](https://www.youtube.com/watch?v=796DJ9KBjbA)
 
 
-# 💿 Deskripsi dan Alur Sistem
-1. Use Case Diagram
-![Gambar Flowchart Main ](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/9937d9db3b145a202a0c726910669df4aa26ee22/documentation%20picture/Use%20Case%20-%20UTS%20Mobile.drawio%20(1).png)
+# 💫 Dokumentasi Pengembangan Sistem
 
-    > Pada gambar dijelaskan bahwasanya user dapat mengakses 2 Fitur utama, yaitu Dashboard dan Laman Detail data Koresponden. Pada Dashboard, user dapat melihat hasil visualisasi data survey yang telah berhasil dihimpun. Sedangkan pada detail data koresponden, user dapat mengakses data lengkap mengenai isi survey yang dilakukan oleh mahasiswa.
+## Splash Screen
 
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/splash.jpg)
 
-2. Main Flowchart
-![Gambar Flowchart Main ](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/9937d9db3b145a202a0c726910669df4aa26ee22/documentation%20picture/flowchart%20main.png)
+    ![Dokumentasi Testing](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/splash2.jpg)
 
-    > Flowchart diatas menjelaskan alur utama pada sistem. Dimulai dari pengolahan data. Sistem akan melakukan pengolahan data dengan melakukan kalkulasi dan pembuatan char.
+## Login dan Register
 
-    > Selanjutnya, hasil dari pengolahan akan tampil pada sistem.
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/login.jpg)
 
-    > User melakukan pilihan tindakan untuk penampilan data lanjutan. Apabila user memilih penampilan detail data koresponden, maka sistem akan melakukan eksekusi method detailData(). Namun, jika tidak, proses selesai.
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r1.jpg)
 
-2. Flowchart olahData()
-![Gambar FLowchart Fungsi olahData](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/9937d9db3b145a202a0c726910669df4aa26ee22/documentation%20picture/olahdata.png)
-    > a. Dilakukan grab data pada database
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r2.jpg)
 
-    > b. Mengakses List data hasil survey
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r3.jpg)
 
-    > c. Melakukan data kalkulasi, apabila menghitung banyaknya data pada suatu variabel, maka dilakukan fungsi count(). Namun, apabila dilakukan perhitungan jumlah rerata, maka dilakukan kalkulasi pengolahan data total terlebih dahulu. Setelahnya dilakukan kalkulasi pencarian total data spesifik dengan count. Kemudian dilakukan pembagian hasil sum() dan count()
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r4.jpg)
 
-    > d. Hasil kalkulasi akan dilakukan pengolahan untuk menampilkan data dengan chart yang dikehendaki
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r5.jpg)
 
-    > e. Program selesai
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r6.jpg)
 
-3. Flowchart detailData()
-
-![Gambar Flowchart fungsi detailData()](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/9dcc2ffe224b869b45a5562642d1d7545558f42f/documentation_picture/detaildata.png)
-
-    > a. Dilakukan grab data pada database
-
-    > b. Mengakses List data hasil survey
-
-    > c. *ListView.builder* untuk membuat tampilan List yang dapat digulir. Setiap elemen dalam List diakses menggunakan data[index], dan kita mengonversinya ke dalam bentuk String dengan .toString() agar dapat ditampilkan dalam *ListTile*.
-
-    > d. Detail data koresponden akan muncul
-
-    > e. Apabila dipilih penampilan data lebih banyak, sistem akan mengakses fungsi *onTap()* untuk mengakses fungsi berikutnya dengan tujuan menampilkan detail data lanjutan pada row selanjutnya
-
-# 📚 Deskripsi Folder
-1. Folder `midterm_exam_mobile` berisi kode program untuk pembuatan sistem menggunakan framework Flutter dan bahasa Dart
-2. Folder `uts_mobile` berisi kode program untuk pengelolaan backend melalui laravel
-3. Folder `documentation_picture` berisi folder gambar dalam penampilan laporan
-4. Folder `uts__mobile` pada branch `mobile-interface` berisi kode program pembentukan user interface
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r7.jpg)
 
 
-# 🗯️ Hasil Pengujian Program
-1. Dashboard Page
+## Home 
 
-    |ID | Case | Expected Result | Actual Result | Status |
-    |---|------|-----------------|---------------|------|
-    |USR01| Penampilan chart | Chart tampil sesuai dengan variabel permasalahan | Chart tampil sesuai dengan variabel permasalahan pada judul chart| Sesuai|
-    |USR02| Penampilan data hasil Kalkulasi | Data hasil tampil tanpa adanya kegagalan kalkulasi | Data hasil tampil tanpa adanya kegagalan kalkulasi| Sesuai |
-    |USR03| Penampilan detail data lanjutan | Data detail tampil sesuai dengan baris/row pada sumber data| Data detail tampil sesuai dengan baris/row pada sumber data| Sesuai |
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/home.jpg)
 
-    ## 💫 Hasil Tampilan Testing
-
-    ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/00ddb24b67df693a20e92f45d93ec864d53d2274/documentation_picture/testing1.jpg)
-
-    ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/00ddb24b67df693a20e92f45d93ec864d53d2274/documentation_picture/testing2.jpg)
-
-    ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/00ddb24b67df693a20e92f45d93ec864d53d2274/documentation_picture/testing3.jpg)
-
-    ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/00ddb24b67df693a20e92f45d93ec864d53d2274/documentation_picture/testing4.jpg)
-
-    ![Dokumentasi Testing](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/07abb6846769a7154a06211a17117bf1b1ba4ced/documentation_picture/testing5.jpg)
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/sidebar.jpg)
 
 
-# 🗨️ Dokumentasi Pengembangan Sistem
-1. Designing User Interface
+## Dashboard Data Kuesioner Mahasiswa
 
-2. Coding Interface
-
-![Dokumentasi Coding Interface](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/3695ee0601cd195c18c7156f9b93869153b31925/assets/doc3.png)
-
-3. Coding System
-
-![Dokumentasi Pengkodingan Sistem](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/00ddb24b67df693a20e92f45d93ec864d53d2274/documentation_picture/coding.png)
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dshAk.jpg)
 
 
-4. Group's Meeting
 
-![Dokumentasi Group's Meeting](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/3695ee0601cd195c18c7156f9b93869153b31925/assets/doc1.png)
+## Dashboard Data Akademik Mahasiswa
+
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dashboardAkademik.jpg)
+
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dashboardAkademik2.jpg)
 
 
-5. Testing System
+## Pelaporan Tindakan Pelecehan 
 
-![Dokumentasi Group's Meeting](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/07abb6846769a7154a06211a17117bf1b1ba4ced/documentation_picture/testingdoc.jpg)
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/formpelecehan.jpg)
+
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/formpelecehanlanjutan.jpg)
+
+
+## Edit Data User
+
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edit%20user.jpg)
+
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edituser.jpg)
+
+    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edituser2.jpg)
+
+
+
 
 
 # 💥 Contributor
     Kelompok 6 SIB 3E
     1. Niken Maharani Permata - 2141762006 / 19
-        Peran : UI Designer dan Technical Writer
     2. Muhammad Al Kindy - 2141762057 / 14
-        Peran : Backend and Frontend Developer
     3. Laita Zidan
-        Peran : 'Expected' Frontend Developer = 0% contribution
 
 
 
