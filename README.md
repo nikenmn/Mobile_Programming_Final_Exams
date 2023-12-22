@@ -1,10 +1,10 @@
 # ❇️ MidTerm-Exam-Mobile-Programming ❇️
-Repository untuk hasil program bahan Ujian Tengah Semester (UTS) Pemrograman Mobile Tahun Ajaran 2023-2024
+Repository untuk hasil Aplikasi CRIPs - Pemrograman Mobile Tahun Ajaran 2023-2024
 
-# 📱 Dashboard Mobile - Project
-Dashboard Data Hasil Kuisioner Mahasiswa sederhana menggunakan bahasa pemrograman dart dengan melibatkan framework Laravel sebagai backend dan Flutter sebagai framework pengembangan antarmuka pengguna (UI / User Interface).
+# 📱 CRIPs Mobile - Project
+Aplikasi yang berisikan Laporan Pelecehan dan Kekerasan Seksual, Dashboard Data Hasil Kuisioner Mahasiswa, dan Dashboard Data Akademis Mahasiswa. Pengembangan Aplikasi menggunakan bahasa pemrograman dart dengan melibatkan framework Laravel sebagai backend dan Flutter sebagai framework pengembangan antarmuka pengguna (UI / User Interface).
 
-!['Gambar Home Dashboard'](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/7749e5e8b2d4eeca933454db8c60af68f4f5397c/documentation_picture/testing1.jpg)
+!['Gambar Home Dashboard'](https://github.com/nikenmn/MidTerm-Exam-Mobile-Programming/blob/7749e5e8b2d4eeca933454db8c60af68f4f5397c/documentation_picture/home.jpg)
 
 # 💫 Latar Belakang
 Mr. X adalah salah satu Direktur Politeknik terbesar di Indonesia. Untuk menjaga kualitas layanan 
