@@ -26,65 +26,63 @@ Aplikasi yang berisikan Laporan Pelecehan dan Kekerasan Seksual, Dashboard Data 
 
 ## Splash Screen
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/splash.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/splash.jpg)
 
-    ![Dokumentasi Testing](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/splash2.jpg)
+![Dokumentasi Testing](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/splash2.jpg)
 
 ## Login dan Register
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/login.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/login.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r1.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r1.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r2.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r2.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r3.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r3.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r4.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r4.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r5.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r5.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r6.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r6.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r7.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/r7.jpg)
 
 
 ## Home 
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/home.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/home.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/sidebar.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/sidebar.jpg)
 
 
 ## Dashboard Data Kuesioner Mahasiswa
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dshAk.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dshAk.jpg)
 
 
 
 ## Dashboard Data Akademik Mahasiswa
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dashboardAkademik.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dashboardAkademik.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dashboardAkademik2.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/dashboardAkademik2.jpg)
 
 
 ## Pelaporan Tindakan Pelecehan 
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/formpelecehan.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/formpelecehan.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/formpelecehanlanjutan.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/formpelecehanlanjutan.jpg)
 
 
 ## Edit Data User
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edit%20user.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edit%20user.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edituser.jpg)
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edituser.jpg)
 
-    ![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edituser2.jpg)
-
-
+![Dokumentasi Sistem](https://github.com/nikenmn/Mobile_Programming_Final_Exams/blob/a114b2ce92be74eb29335dedc4c13f0d0549cc09/documentation_picture/edituser2.jpg)
 
 
 
